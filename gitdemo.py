@@ -11,3 +11,4 @@ z=x-y
 print(z)
 print("python is a very simple to learn")
 print("python is used in DL and ML")
+print("Python is use in data analytics")
