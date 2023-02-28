@@ -9,4 +9,4 @@ x=100
 y=50
 z=x-y
 print(z)
-print("Git Hub")
+print("python is an opp language")
