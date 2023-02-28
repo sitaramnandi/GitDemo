@@ -9,4 +9,4 @@ x=100
 y=50
 z=x-y
 print(z)
-print("python is an opp language")
+print("python is a very simple to learn")
