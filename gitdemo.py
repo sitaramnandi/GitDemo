@@ -4,5 +4,4 @@ b=40
 c=a+b
 print(c)
 print("Line RS")
-
 print("line 3 by TR")
